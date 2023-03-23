@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Kulish Yaroslav</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Куліш Ярослав</h1>
+		<h2>Студент групи 044</h2>
+	</header>
+	<main>
+		<section>
+			<h3>About me</h3>
+			<p>Привіт, я Ярослав. Я навчаюсь в Європейському Університеті,
+                 де вивчаю Бази даних, схеми, таблиці, подання, збережені процедури та інші об'єкти,
+                  комп'ютерні системи та все апаратне та програмне забезпечення, необхідне для того, щоб зробити його функціональним,
+                   основи електроніки будова, принципи функціонування, основні характеристики та електричні параметри різних типів електроніки,
+                    теорія алгоритмів та загальні властивості алгоритмів.</p>
+		</section>
+		<section>
+			<h3>Контактна інформація</h3>
+			<ul>
+				<li>Telegram: @Molodoy229</li>
+				<li>Телефон: 050 267 74 38</li>
+			</ul>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2023 Kulish Yaroslav</p>
+	</footer>
+	<script src="script.js"></script>
+</body>
+</html>
